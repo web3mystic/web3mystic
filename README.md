@@ -5,7 +5,6 @@
 
 Here are some ideas to get you started:
 -->
-Hi there 👋
 
 🔭 I’m currently working on Backend Development using Go (Golang), Gin Framework, and REST API development
 
